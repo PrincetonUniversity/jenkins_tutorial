@@ -1,4 +1,3 @@
-#! /usr/bin/env python
 import unittest
 from factorial import recur_factorial
 
